@@ -1,6 +1,6 @@
 # android 10版本源码编译与Pixel刷机
 
-## 先下载android 10 源码
+## [先下载android 10 源码](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
 
 * 下载 repo工具
 
@@ -36,7 +36,7 @@ git config --global user.name "piratemorgen"
 
 ~/bin/repo sync -j10
 
-![images](./1.png)
+![images](./images/1.png)
 ## 编译源码
 
 [7za](https://blog.csdn.net/qq_27608983/article/details/92462659) a -v4g android-10.0.0_r29.7z ~/ 
@@ -143,6 +143,21 @@ sudo apt-get install -y lib32z-dev ccache libssl-dev
 增加
 ```
 make android.test.mock.docs-update-current-api
+make api-stubs-docs-update-current-api
 ```
+![images](./images/2.png)
 
+# 刷入 
+```
+export PATH=$PATH:/Users/haidragon/Library/Android/sdk/platform-tools
+adb devices
+export ANDROID_PRODUCT_OUT=./
+echo $ANDROID_PRODUCT_OUT
+adb reboot bootloader
+fastboot flashall -w
+```
+![images](./images/3.jpg)
+![images](./images/4.jpg)
+![images](./images/5.jpg)
+![images](./images/6.jpg)
 

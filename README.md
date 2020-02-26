@@ -6,19 +6,19 @@ android 系统定制(魔改) 视频教程
 * 第三课 [Nexus4刷android4.4](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page3/page.md)
 * 第四课 [android 8版本源码编译与Pixel刷机](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page4/page.md)
 * 第五课 [android 10版本源码编译与Pixel刷机](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page5/page.md)
-* 第六课 android 内核源码编译
-* 第七课 Pixel替换内核
-* 第八课 root教程(第三方root工具)
+* 第六课 [android 内核源码编译](https://github.com/haidragon/study_Android_Mchange/blob/master/page6/page.md)
+* 第七课 [Pixel替换内核](https://github.com/haidragon/study_Android_Mchange/blob/master/page6/page.md)
+* 第八课 [root教程(第三方root工具)](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page8/page.md)
 ## 第二章 调试篇
-* 第一课 app程序调试(有源码程序与无源码程序）
-* 第二课 so层c++程序调试(有源码程序与无源码程序）
-* 第三课 java服务源码调试
-* 第四课 如何系统开机调试
-* 第五课 内核源码调试
+* 第一课 [app程序调试(系统程序与无源码程序)](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page9/page.md)
+* 第二课 [java服务源码调试](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page11/page.md)
+* 第三课 [so层c++程序调试(系统程序与无源码程序）](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page10/page.md)
+* 第四课 [如何系统开机调试](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page12/page.md)
+* 第五课 [内核源码调试](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page13/page.md)
 ## 第三章 魔改篇(上）
 * 第一课 自定义root工具之su程序编写
 * 第二课 自定义root工具之安全屏障程序编写 
-* 第三课 hello world驱动开发
+* 第三课 [android 驱动开发](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page16/page.md)
 * 第四课 运营商信息获取流程分析
 * 第五课 运营商信息修改
 * 第六课 dex加载流程分析
