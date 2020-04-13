@@ -19,23 +19,18 @@ android 系统定制(魔改) 视频教程
 * 第一课 [自定义root工具之su程序编写](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page14_1/page.md)
 * 第二课 [自定义root工具之安全屏障程序编写](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md) 
 * 第三课 [android10 驱动开发](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page16/page.md)
-* 第四课 运营商信息获取流程分析
-* 第五课 运营商信息修改
-* 第六课 dex加载流程分析
+* 第四课 [运营商信息获取流程分析](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
+* 第五课 [运营商信息修改](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
+* 第六课 [dex加载流程分析](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
 ## 第四章 魔改篇(下）
-* 第一课 主动dump dex
-* 第二课 so加载流程分析
-* 第三课 主动dump so
-* 第四课 进程虚拟内存原理
-* 第五课 内存监控器实现
-* 第六课 文件过滤器与网络过滤器相关
-# 视频持续更新.......  
-* 已上传 b站 地址：https://space.bilibili.com/411849899
-# 其它教程
-* [study_firewall](https://github.com/haidragon/study_firewall)
-* [study_obscure](https://github.com/haidragon/study_obscure)
-* [study_frida](https://github.com/haidragon/study_frida)
-* [study_protocol_analysis](https://github.com/haidragon/study_protocol_analysis)
+* 第一课 [主动dump dex](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
+* 第二课 [so加载流程分析](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
+* 第三课 [主动dump so](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
+* 第四课 [进程虚拟内存原理](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
+* 第五课 [内存监控器实现](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
+* 第六课 [文件过滤器与网络过滤器相关](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
+# 视频教程
+* [对应视频教程目录](https://github.com/haidragon/haidragon_study)
 * qq交流群 
 * 309262570
 * 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
